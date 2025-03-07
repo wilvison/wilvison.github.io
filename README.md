@@ -2,9 +2,8 @@
 <table style="border-collapse: none; width: 100%; text-align: center; vertical-align: middle;">
   <tr>
   <td style="border: none; text-align: center; vertical-align: middle; padding-right: 20px;">
-      <p>
-        <h2> Perfil GitHub </h2>
-        <h3> Sobre Mim </h3>
+      <p>        
+        <h1> Sobre Mim </h1>
         <h2>  Olá, eu sou Wilvison Ralis 👋 </h2>
 </p>
     </td>
