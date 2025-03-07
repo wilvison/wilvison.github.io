@@ -193,7 +193,7 @@
 </table>
 
 ## Áreas de Interesse
-### Líderança Técnica, Scrum Master, Gestão de Projetos, Cloud, Desenvolvimento web, Desenvolvimento mobile, Data Science, Machine Learning, Inteligência Artificial, Análise de Dados
+### Líderança Técnica, Scrum Master, Gestão de Projetos, Cloud, DevOps, Desenvolvimento web, Desenvolvimento mobile, Data Science, Machine Learning, Inteligência Artificial, Análise de Dados
 
 ## Contato
 
