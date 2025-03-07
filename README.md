@@ -1,49 +1,36 @@
 
-# Perfil GitHub
-### Sobre Mim
-## Olá, eu sou Wilvison Ralis 👋
-
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
+  <td style="border: none; text-align: center; vertical-align: middle; padding-right: 20px;">
       <p>
-      ✨ **Com quase 15 anos de experiência, atualmente Analista de Sistemas na Atos (remoto), com uma sólida formação em Sistemas de Informação e pós-graduações na área da tecnologia. Atualmente, estou cursando mestrado em Ciências da Computação na Universidade Federal do Pará, o que me permite aprofundar meus conhecimentos em tecnologias e soluções inovadoras.
-  Minha experiência abrange a liderança técnica e a aplicação de metodologias ágeis, como Scrum Master, para otimizar processos e entregar projetos de alta qualidade. Tenho um perfil generalista, o que me permite adaptar e aplicar minhas habilidades em diversas áreas da tecnologia da informação.
-  Sempre busco me desafiar que me permitam utilizar minha paixão por tecnologia para resolver problemas complexos e contribuir para o sucesso das organizações com as quais colaboro. 
-  - Possuo artigos publicados no SBGames (Simpósio Brasileiro de Jogos e Entretenimento Digital) e TISE (Congresso Internacional de Informática Educacional).
-  - Habilidades de comunicação, gestão e liderança.
-  - Habilidade em liderar equipes multidisciplinares e gerenciar conflitos;
-  - Trabalhei com as seguintes tecnologia: 
-   * Experiência com metodologias ágeis (Scrum, Kanban, SaFe), Certificação Scrum SFC e CSM
-   * DevOps: Docker, Kubernetes, Pipelines CI/CD, Jenkins, Git, GitLab, GitHub
-   * Cloud: AWS, Azure, Terraform
-   * Conhecimento em tecnologias como GPT, Gemini, Claude, DeepSeek, Qwen e frameworks
-   * Conhecimento sobre o mercado de criptomoedas
-   * Linguagens de programação: PHP, Python, JavaScript, HTML, CSS, Java.
-   * Bancos de dados: MySQL, PostgreSQL, MongoDB 
-  - Experiencia infraestrutura On-premise, DMZ, Cloud(Nuvem), Liderança de equipes, gestão de conflitos, gestão de setor, domínio de sala de aula.
-  </p>
+        <h2> Perfil GitHub </h2>
+        <h3> Sobre Mim </h3>
+        <h2>  Olá, eu sou Wilvison Ralis 👋 </h2>
+</p>
     </td>
-    <td style="vertical-align: top;" src="https://avatars.githubusercontent.com/u/9903188?s=400&u=d95a62c4d90fe570f9dc70acb13a1cfdebf9fa3e&v=4" alt="Descrição da Imagem" width="200">
-    <img src="https://avatars.githubusercontent.com/u/9903188?s=400&u=d95a62c4d90fe570f9dc70acb13a1cfdebf9fa3e&v=4" alt="Descrição da Imagem" width="200"/>
+      <td style="border: none; text-align: center; vertical-align: middle;">
+      <img src="https://avatars.githubusercontent.com/u/9903188?s=400&u=d95a62c4d90fe570f9dc70acb13a1cfdebf9fa3e&v=4" alt="Descrição da Imagem" width="200" />
     </td>
   </tr>
 </table>
+
+✨ Com quase 15 anos de experiência, atualmente Analista de Sistemas na Atos (remoto), com uma sólida formação em Sistemas de Informação e pós-graduações na área da tecnologia. Atualmente, estou cursando mestrado em Ciências da Computação na Universidade Federal do Pará, o que me permite aprofundar meus conhecimentos em tecnologias e soluções inovadoras.
+  Minha experiência abrange a liderança técnica e a aplicação de metodologias ágeis, como Scrum Master, para otimizar processos e entregar projetos de alta qualidade. Tenho um perfil generalista, o que me permite adaptar e aplicar minhas habilidades em diversas áreas da tecnologia da informação.
+  Sempre busco me desafiar que me permitam utilizar minha paixão por tecnologia para resolver problemas complexos e contribuir para o sucesso das organizações com as quais colaboro.   
 
 ## 🏢 Atuação Profissional
 - 🚀 Analista de Sistemas, Scrum Master, Líder Técnico na [Atos](https://atos.net/))
 
 ## 📌 Projeto em Destaque
 
-** - [Aplicativo para gerenciar partidas esportivas](https://github.com/wilvison/EsporteWR)
+- [Aplicativo para gerenciar partidas esportivas](https://github.com/wilvison/EsporteWR)
 - [Aplicativo para controle de finanças pessoais](https://github.https://github.com/wilvison/App-financas)
 - [Framework open-source para comparação de modelos de IA generativa na documentação automática de código.](https://github.com/wilvison/automatic-code-doc)
 - [CodeDocGen é uma ferramenta baseada em IA generativa que automatiza a criação de documentação técnica a partir de código-fonte. O projeto utiliza Large Language Models (LLMs) para analisar código em múltiplas linguagens e gerar documentação de alta qualidade, incluindo comentários de código, documentação de API, e guias de uso.](https://github.com/wilvison/Ai-Generativa)
 - [Este projeto utiliza Modelos de Linguagem (LLMs) como GPT-4, Llama, Claude e Gemini para gerar documentação automática de código-fonte.](https://github.com/wilvison/AutoDocGen)
-**
+
 ## 📊 Estatísticas no GitHub
 
-###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wilvison&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wilvison&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -168,6 +155,43 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
 </div>
+<br>
+
+<table>
+  <tr>
+    <td>Possuo artigos publicados nos SBGames (Simpósio Brasileiro de Jogos e Entretenimento Digital) e TISE (Congresso Internacional de Informática Educacional)</td>  
+  </tr>
+  <tr>
+    <td>Habilidades: Comunicação, Gestão, Liderança Equipes Multidisciplinares, Gerenciar de Conflitos</td>
+  </tr>
+  <tr>
+    <th>Trabalhei com as seguintes tecnologia: </th>
+  </tr>
+  <tr>
+    <td>Experiência com metodologias ágeis (Scrum, Kanban, SaFe), Certificação Scrum SFC e CSM</td>
+  </tr>
+  <tr>
+    <td>DevOps: Docker, Kubernetes, Pipelines CI/CD, Jenkins, Git, GitLab, GitHub</td>
+  </tr>
+  <tr>
+    <td>Cloud: AWS, Azure, Terraform</td>
+  </tr>
+  <tr>
+    <td>Conhecimento em tecnologias como GPT, Gemini, Claude, DeepSeek, Qwen e frameworks</td>
+  </tr>
+  <tr>
+    <td>Conhecimento sobre o mercado de criptomoedas</td>
+  </tr>
+  <tr>
+    <td>Linguagens de programação: PHP, Python, JavaScript, HTML, CSS, Java.</td>
+  </tr>
+  <tr>
+    <td>Bancos de dados: MySQL, PostgreSQL, MongoDB </td>
+  </tr>
+  <tr>
+    <td>Experiencia infraestrutura On-premise, DMZ, Cloud(Nuvem), Liderança de equipes, gestão de conflitos, gestão de setor, domínio de sala de aula.</td>
+  </tr>
+</table>
 
 ## Áreas de Interesse
 ### Líderança Técnica, Scrum Master, Gestão de Projetos, Cloud, Desenvolvimento web, Desenvolvimento mobile, Data Science, Machine Learning, Inteligência Artificial, Análise de Dados
