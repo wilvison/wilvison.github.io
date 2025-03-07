@@ -4,7 +4,7 @@
   <td style="border: none; text-align: center; vertical-align: middle; padding-right: 20px;">
       <p>        
         <h1> Sobre Mim </h1>
-        <h2>  Olá, eu sou Wilvison Ralis 👋 </h2>
+        <h2>  Olá, eu sou Wilvison Ralis.👋 <br/> Mas pode me chamar de Wil</h2>
 </p>
     </td>
       <td style="border: none; text-align: center; vertical-align: middle;">
