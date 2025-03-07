@@ -1,5 +1,5 @@
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: none; width: 100%; text-align: center; vertical-align: middle;">
   <tr>
   <td style="border: none; text-align: center; vertical-align: middle; padding-right: 20px;">
       <p>
@@ -9,7 +9,7 @@
 </p>
     </td>
       <td style="border: none; text-align: center; vertical-align: middle;">
-      <img src="https://avatars.githubusercontent.com/u/9903188?s=400&u=d95a62c4d90fe570f9dc70acb13a1cfdebf9fa3e&v=4" alt="Descrição da Imagem" width="200" />
+      <img src="https://avatars.githubusercontent.com/u/9903188?s=400&amp;u=d95a62c4d90fe570f9dc70acb13a1cfdebf9fa3e&amp;v=4" alt="Descrição da Imagem" width="200" />
     </td>
   </tr>
 </table>
