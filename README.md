@@ -22,7 +22,14 @@
 
 ## 📌 Projeto em Destaque
 
-[![Perfil GitHub](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=Perfil-GitHub&theme=radical)](https://github.com/wilvison/Perfil-GitHub)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=cloudmart)](https://github.com/wilvison/cloudmart)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=IMC7-MASTER)](https://github.com/wilvison/IMC7-MASTER)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=Ai-Generativa)](https://github.com/wilvison/Ai-Generativa)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=automatic-code-doc)](https://github.com/wilvison/automatic-code-doc)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=App-financas)](https://github.com/wilvison/App-financas)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=EsporteWR)](https://github.com/wilvison/EsporteWR)
+
+GitHub)
 
 
 ## 📊 Estatísticas no GitHub
