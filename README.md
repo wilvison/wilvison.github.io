@@ -22,11 +22,8 @@
 
 ## 📌 Projeto em Destaque
 
-- [Aplicativo para gerenciar partidas esportivas](https://github.com/wilvison/EsporteWR)
-- [Aplicativo para controle de finanças pessoais](https://github.https://github.com/wilvison/App-financas)
-- [Framework open-source para comparação de modelos de IA generativa na documentação automática de código.](https://github.com/wilvison/automatic-code-doc)
-- [CodeDocGen é uma ferramenta baseada em IA generativa que automatiza a criação de documentação técnica a partir de código-fonte. O projeto utiliza Large Language Models (LLMs) para analisar código em múltiplas linguagens e gerar documentação de alta qualidade, incluindo comentários de código, documentação de API, e guias de uso.](https://github.com/wilvison/Ai-Generativa)
-- [Este projeto utiliza Modelos de Linguagem (LLMs) como GPT-4, Llama, Claude e Gemini para gerar documentação automática de código-fonte.](https://github.com/wilvison/AutoDocGen)
+[![Perfil GitHub](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=Perfil-GitHub&theme=radical)](https://github.com/wilvison/Perfil-GitHub)
+
 
 ## 📊 Estatísticas no GitHub
 
