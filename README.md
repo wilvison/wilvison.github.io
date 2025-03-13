@@ -1,5 +1,3 @@
-# 👨‍💻 Wilvison Ralis (Wil)
-
 <div align="center">
   
   ![Profile Views](https://img.shields.io/badge/Perfil-Tecnologia-blue?style=for-the-badge)
