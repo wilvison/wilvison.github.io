@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <body>
 <div align="center">
   
@@ -143,7 +144,7 @@ Nesta seção, apresento algumas das minhas publicações, nas quais abordo tema
 
 ---
 
-# [The Use of PBL (Points, Badges and Leaderboards) Components and Game Mechanics for Teaching and Learning of Knowledge Management](http://www.tise.cl/2019/img/ActasTISE2019.pdf)
+### [The Use of PBL (Points, Badges and Leaderboards) Components and Game Mechanics for Teaching and Learning of Knowledge Management](http://www.tise.cl/2019/img/ActasTISE2019.pdf)
 - **Evento:** TISE 2019 – XXIV Congresso Internacional de Informática Educacional  
 - **Data:** 28 de nov de 2019  
 - **Publicação:** Sánchez, J. (2019) Editor. *Nuevas Ideas en Informática Educativa*, Volumen 15, p. 22-29, Santiago de Chile.  
@@ -152,7 +153,7 @@ Nesta seção, apresento algumas das minhas publicações, nas quais abordo tema
 
 ---
 
-# [Gamificação e Avaliação da Aplicação da Gestão do Conhecimento em uma Turma de Ciências da Computação: Um Estudo Experimental](https://www.sbgames.org/sbgames2019/files/papers/EducacaoShort/197813.pdf)
+### [Gamificação e Avaliação da Aplicação da Gestão do Conhecimento em uma Turma de Ciências da Computação: Um Estudo Experimental](https://www.sbgames.org/sbgames2019/files/papers/EducacaoShort/197813.pdf)
 - **Evento:** XVIII SBGames – Rio de Janeiro – RJ – Brazil  
 - **Data:** 30 de out de 2019  
 - **Resumo:**  
@@ -160,7 +161,7 @@ Nesta seção, apresento algumas das minhas publicações, nas quais abordo tema
 
 ---
 
-# [Gamificação e Avaliação da Aplicação da Gestão do Conhecimento: Uma Análise de Estudos de Caso](https://www.sbgames.org/sbgames2019/files/papers/EducacaoFull/198406.pdf)
+### [Gamificação e Avaliação da Aplicação da Gestão do Conhecimento: Uma Análise de Estudos de Caso](https://www.sbgames.org/sbgames2019/files/papers/EducacaoFull/198406.pdf)
 - **Evento:** XVIII SBGames – Rio de Janeiro – RJ – Brazil  
 - **Data:** 30 de out de 2019  
 - **Resumo:**  
@@ -168,7 +169,7 @@ Nesta seção, apresento algumas das minhas publicações, nas quais abordo tema
 
 ---
 
-# [Aplicação de Core Drives e Elementos de Jogos para o Ensino e Aprendizagem da Gestão do Conhecimento](http://www.tise.cl/Volumen14/TISE2018/451.pdf)
+### [Aplicação de Core Drives e Elementos de Jogos para o Ensino e Aprendizagem da Gestão do Conhecimento](http://www.tise.cl/Volumen14/TISE2018/451.pdf)
 - **Evento:** TISE2018 – XXIII Conferência Internacional sobre Informática na Educação  
 - **Data:** 27 de nov de 2018  
 - **Publicação:** Sánchez, J. (2018) Editor. *Nuevas Ideas en Informática Educativa*, Volumen 14, p. 451-456, Santiago de Chile.  
@@ -177,7 +178,7 @@ Nesta seção, apresento algumas das minhas publicações, nas quais abordo tema
 
 ---
 
-# [SAW: Um Sistema de Geração de Simulados e Avaliações para Auxílio no Ensino e Aprendizado](http://www.tise.cl/Volumen14/TISE2018/607.pdf)
+### [SAW: Um Sistema de Geração de Simulados e Avaliações para Auxílio no Ensino e Aprendizado](http://www.tise.cl/Volumen14/TISE2018/607.pdf)
 - **Evento:** TISE2018 – XXIII Conferência Internacional sobre Informática na Educação  
 - **Data:** 27 de nov de 2018  
 - **Publicação:** Sánchez, J. (2018) Editor. *Nuevas Ideas en Informática Educativa*, Volumen 14, p. 607-613, Santiago de Chile.  
@@ -186,7 +187,7 @@ Nesta seção, apresento algumas das minhas publicações, nas quais abordo tema
 
 ---
 
-# [Quiz Ensina: Uma Ferramenta de Apoio ao Ensino da Educação Básica (Ensino Fundamental II)](https://www.sbgames.org/sbgames2018/files/papers/EducacaoShort/187437.pdf)
+### [Quiz Ensina: Uma Ferramenta de Apoio ao Ensino da Educação Básica (Ensino Fundamental II)](https://www.sbgames.org/sbgames2018/files/papers/EducacaoShort/187437.pdf)
 - **Evento:** SBGames 2018 – XVII Simpósio Brasileiro de Jogos e Entretenimento Digital  
 - **Data:** 29 de out de 2018  
 - **Resumo:**  
@@ -222,6 +223,7 @@ Nesta seção, apresento algumas das minhas publicações, nas quais abordo tema
 </div>
 
 ---
+</html>
 
 <div align="center">
   <i>Obrigado pela visita! Vamos conectar? 👨‍💻</i>
