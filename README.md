@@ -1,3 +1,4 @@
+<body>
 <div align="center">
   
   ![Profile Views](https://img.shields.io/badge/Perfil-Tecnologia-blue?style=for-the-badge)
@@ -225,3 +226,4 @@ Nesta seção, apresento algumas das minhas publicações, nas quais abordo tema
 <div align="center">
   <i>Obrigado pela visita! Vamos conectar? 👨‍💻</i>
 </div>
+</body>
