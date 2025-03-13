@@ -1,3 +1,202 @@
+# 👨‍💻 Wilvison Ralis
+
+<div align="center">
+  
+  ![Profile Views](https://img.shields.io/badge/Perfil-Tecnologia-blue?style=for-the-badge)
+  ![Experience](https://img.shields.io/badge/Experiência-15%20Anos-success?style=for-the-badge)
+  ![Status](https://img.shields.io/badge/Status-Disponível-brightgreen?style=for-the-badge)
+  
+  <img src="https://avatars.githubusercontent.com/u/9903188?s=400&amp;u=d95a62c4d90fe570f9dc70acb13a1cfdebf9fa3e&amp;v=4" alt="Wilvison Ralis" width="200" style="border-radius: 50%;" />
+  
+  ### Analista de Sistemas | Scrum Master | Líder Técnico
+  
+  *"Transformando desafios em soluções tecnológicas inovadoras"*
+</div>
+
+---
+
+## 📊 Resumo Profissional
+
+Profissional com **15 anos de experiência** em tecnologia da informação, atualmente como **Analista de Sistemas na Atos** (trabalho remoto). Possuo formação sólida em Sistemas de Informação, com pós-graduações na área de tecnologia e atualmente cursando mestrado em Ciências da Computação na Universidade Federal do Pará.
+
+Minha experiência abrange liderança técnica e aplicação de metodologias ágeis como Scrum Master, com perfil generalista que me permite atuar em diversas áreas de TI. Sou movido por desafios e pela paixão em resolver problemas complexos usando tecnologia.
+
+---
+
+## 🎓 Formação Acadêmica
+
+- **Mestrado em Ciências da Computação** (Em andamento)  
+  *Universidade Federal do Pará*
+
+- **Pós-Graduação em Tecnologia da Informação**
+
+- **Graduação em Sistemas de Informação**
+
+---
+
+## 🏢 Experiência Profissional
+
+### Atos
+**Analista de Sistemas | Scrum Master | Líder Técnico**  
+*Atuação remota*
+
+> Principais responsabilidades:
+> - Liderança técnica de equipes de desenvolvimento
+> - Implementação e gestão de metodologias ágeis
+> - Gerenciamento de projetos de software
+> - Análise e desenvolvimento de sistemas
+
+---
+
+## 🏆 Certificações
+
+- **Scrum Foundation Certificate (SFC)**
+- **Certified Scrum Master (CSM)**
+
+---
+
+## 🚀 Projetos em Destaque
+
+<div align="center">
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=AutoDocGen&theme=tokyonight)](https://github.com/wilvison/AutoDocGen)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=Ai-Generativa&theme=tokyonight)](https://github.com/wilvison/Ai-Generativa)
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=automatic-code-doc&theme=tokyonight)](https://github.com/wilvison/automatic-code-doc)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=App-financas&theme=tokyonight)](https://github.com/wilvison/App-financas)
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=EsporteWR&theme=tokyonight)](https://github.com/wilvison/EsporteWR)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=E-Books&theme=tokyonight)](https://github.com/wilvison/E-Books)
+</div>
+
+---
+
+## 📈 Estatísticas no GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wilvison&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="180" alt="estatísticas" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wilvison&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="180" alt="linguagens" />
+</div>
+
+---
+
+## 💼 Competências Profissionais
+
+<table>
+  <tr>
+    <th>Área</th>
+    <th>Competências</th>
+  </tr>
+  <tr>
+    <td><b>Habilidades de Gestão</b></td>
+    <td>Liderança de equipes multidisciplinares • Gestão de conflitos • Comunicação eficaz • Gerenciamento de projetos • Metodologias ágeis (Scrum, Kanban, SaFe)</td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Cloud</b></td>
+    <td>Docker • Kubernetes • CI/CD Pipelines • Jenkins • Git, GitLab, GitHub • AWS • Azure • Terraform</td>
+  </tr>
+  <tr>
+    <td><b>Linguagens de Programação</b></td>
+    <td>JavaScript/TypeScript • Python • PHP • Java • HTML/CSS • R</td>
+  </tr>
+  <tr>
+    <td><b>Bancos de Dados</b></td>
+    <td>MySQL • PostgreSQL • MongoDB</td>
+  </tr>
+  <tr>
+    <td><b>IA & Data Science</b></td>
+    <td>GPT, Gemini, Claude • DeepSeek, Qwen • Análise de Dados • Machine Learning</td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Stack Tecnológica
+
+<div align="center">
+  
+  ### Frontend
+  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,html,css,sass,bootstrap,jquery" />
+  
+  ### Backend
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python,java,r,laravel" />
+  
+  ### DevOps & Cloud
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,terraform,git" />
+  
+  ### Bancos de Dados
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+  
+  ### Ferramentas
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,unity,wordpress,firebase" />
+
+</div>
+
+---
+
+## 📚 Publicações Acadêmicas
+
+- Artigos publicados no **SBGames** (Simpósio Brasileiro de Jogos e Entretenimento Digital)
+- Artigos publicados no **TISE** (Congresso Internacional de Informática Educacional)
+
+## 📝 Artigos no LinkedIn
+<div align="center">
+  
+  ### Compartilhando Conhecimento e Tendências
+  [Acesse meus artigos no LinkedIn](https://www.linkedin.com/in/wilvison/recent-activity/articles/)
+  
+</div>
+
+### Artigos em Destaque:
+- **Inteligência Artificial Generativa no Ambiente Corporativo**
+  > Análise sobre como empresas podem implementar IA generativa para otimizar processos e criar valor.
+  
+- **DevOps: Cultura, Prática e Ferramentas**
+  > Um guia abrangente sobre a implementação de DevOps em organizações de diferentes portes.
+  
+- **Metodologias Ágeis: Além do Scrum**
+  > Explorando diferentes abordagens ágeis e como adaptá-las às necessidades específicas de cada projeto.
+  
+- **Cloud Computing: Estratégias para Migração Eficiente**
+  > Dicas práticas e considerações importantes para empresas que estão planejando migrar para a nuvem.
+
+---
+
+## 🔍 Áreas de Interesse
+
+- Liderança Técnica 
+- Gestão de Projetos
+- Cloud Computing
+- DevOps
+- Desenvolvimento Web/Mobile
+- Data Science
+- Machine Learning
+- Inteligência Artificial
+- Análise de Dados
+- Mercado de Criptomoedas
+
+---
+
+## 📫 Contato
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-wilvison-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wilvison)
+  [![YouTube](https://img.shields.io/badge/YouTube-WR_Tecnologia_e_Educação-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/WRTecnologiaeEducacao)
+  [![Instagram](https://img.shields.io/badge/Instagram-wr.insta-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/wr.insta)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/5591982183205)
+  [![Email](https://img.shields.io/badge/Email-wilvison@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:wilvison@gmail.com)
+  
+</div>
+
+---
+
+<div align="center">
+  <i>Obrigado pela visita! Vamos conectar? 👨‍💻</i>
+</div>
+
+
 <div align="center">
   
   ![Profile Views](https://img.shields.io/badge/Perfil-Tecnologia-blue?style=for-the-badge)
