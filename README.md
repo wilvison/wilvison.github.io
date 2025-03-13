@@ -1,20 +1,12 @@
-<table align="center">
- <tr align="center">
- <td>
-  
+
 ![Profile Views](https://img.shields.io/badge/Perfil-Tecnologia-blue?style=for-the-badge)
 ![Experience](https://img.shields.io/badge/Experiência-15%20Anos-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Disponível-brightgreen?style=for-the-badge)
 
-<img src="https://avatars.githubusercontent.com/u/9903188?s=400&amp;u=d95a62c4d90fe570f9dc70acb13a1cfdebf9fa3e&amp;v=4" alt="Wilvison Ralis" width="200" style="border-radius: 50%;" />
-  
   ### Analista de Sistemas | Líder Técnico | Scrum Master | Educador
   
-  *"Transformando desafios em soluções tecnológicas inovadoras"*
+  *"Transformando desafios em <img src="https://avatars.githubusercontent.com/u/9903188?s=400&amp;u=d95a62c4d90fe570f9dc70acb13a1cfdebf9fa3e&amp;v=4" alt="Wilvison Ralis" width="200" style="border-radius: 50%;" /> soluções tecnológicas inovadoras"*
 
-</td>
-</tr>
-</table>
 
 ## 📊 Resumo Profissional
 
@@ -52,72 +44,56 @@ Minha experiência abrange liderança técnica e aplicação de metodologias ág
 
 ## 🚀 Projetos em Destaque
 
-<table align="center">
- <tr align="center">
- <td>
-
- 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=AutoDocGen&theme=tokyonight)](https://github.com/wilvison/AutoDocGen)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=Ai-Generativa&theme=tokyonight)](https://github.com/wilvison/Ai-Generativa)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=automatic-code-doc&theme=tokyonight)](https://github.com/wilvison/automatic-code-doc)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=App-financas&theme=tokyonight)](https://github.com/wilvison/App-financas)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=EsporteWR&theme=tokyonight)](https://github.com/wilvison/EsporteWR)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=E-Books&theme=tokyonight)](https://github.com/wilvison/E-Books)
-  
-  </td>
-</tr>
-</table>
 
 ## 📈 Estatísticas no GitHub
 
-<table align="center">
- <tr align="center">
- <td>
-  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wilvison&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=wilvison&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false)
-
-  </td>
-</tr>
-</table> 
 
 ## 💼 Competências Profissionais
 
-<table align="center">
- <tr align="center">
-    <th>Área</th>
-    <th>Competências</th>
-  </tr>
-  <tr>
-    <td><b>Habilidades de Gestão</b></td>
-    <td>• Liderança de equipes multidisciplinares </br>• Gestão de conflitos </br>• Comunicação eficaz </br>• Gerenciamento de projetos </br>• Metodologias ágeis (Scrum, Kanban, SaFe)</td>
-  </tr>
-  <tr>
-    <td><b>DevOps & Cloud</b></td>
-    <td>• Docker </br>• Kubernetes </br>• CI/CD Pipelines </br>• Jenkins </br>• Git, GitLab, GitHub </br>• AWS </br>• Azure </br>• Terraform</td>
-  </tr>
-  <tr>
-    <td><b>Linguagens de Programação</b></td>
-    <td>• JavaScript/TypeScript </br>• Python </br>• PHP </br>• Java </br>• HTML/CSS </br>• R</td>
-  </tr>
-  <tr>
-    <td><b>Bancos de Dados</b></td>
-    <td>• MySQL </br>• PostgreSQL </br>• MongoDB</td>
-  </tr>
-  <tr>
-    <td><b>IA & Data Science</b></td>
-    <td>• GPT, Gemini, Claude, DeepSeek, Qwen </br>• Análise de Dados </br>• Machine Learning</td>
-  </tr>
-</table>
+### Habilidades de Gestão
+- Liderança de equipes multidisciplinares
+- Gestão de conflitos
+- Comunicação eficaz
+- Gerenciamento de projetos
+- Metodologias ágeis (Scrum, Kanban, SaFe)
+
+### DevOps & Cloud
+- Docker
+- Kubernetes
+- CI/CD Pipelines
+- Jenkins
+- Git, GitLab, GitHub
+- AWS
+- Azure
+- Terraform
+
+### Linguagens de Programação
+- JavaScript/TypeScript
+- Python
+- PHP
+- Java
+- HTML/CSS
+- R
+
+### Bancos de Dados
+- MySQL
+- PostgreSQL
+- MongoDB
+
+### IA & Data Science
+- GPT, Gemini, Claude, DeepSeek, Qwen
+- Análise de Dados
+- Machine Learning
 
 
 ## 🛠️ Stack Tecnológica
-
-<table align="center">
- <tr align="center">
- <td>
-
  
 ### Frontend
 ![Frontend Skills](https://skillicons.dev/icons?i=js,ts,react,angular,html,css,sass,bootstrap,jquery)
@@ -134,9 +110,6 @@ Minha experiência abrange liderança técnica e aplicação de metodologias ág
 ### Ferramentas
 ![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,unity,wordpress,firebase)
 
-  </td>
-</tr>
-</table>
 
 ## 📚 Publicações Acadêmicas
 
@@ -195,11 +168,6 @@ Nesta seção, apresento algumas das minhas publicações, nas quais abordo tema
 - Mercado de Criptomoedas
 
 ## 📫 Contato
-
-<table align="center">
- <tr align="center">
- <td>
-
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wilvison-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wilvison)
 [![YouTube](https://img.shields.io/badge/YouTube-WR_Tecnologia_e_Educação-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/WRTecnologiaeEducacao)
@@ -210,10 +178,3 @@ Nesta seção, apresento algumas das minhas publicações, nas quais abordo tema
 ---
 
 *Obrigado pela visita! Vamos conectar? 👨‍💻*
-
-  </td>
-</tr>
-</table>
-
-
-
