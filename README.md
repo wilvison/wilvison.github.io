@@ -1,218 +1,229 @@
-
-<table style="border-collapse: none; width: 100%; text-align: center; vertical-align: middle;">
-  <tr>
-  <td style="border: none; text-align: center; vertical-align: middle; padding-right: 20px;">
-      <p>        
-        <h1> Sobre Mim </h1>
-        <h2>  Olá, eu sou Wilvison Ralis.👋 <br/> Mas pode me chamar de Wil</h2>
-</p>
-    </td>
-      <td style="border: none; text-align: center; vertical-align: middle;">
-      <img src="https://avatars.githubusercontent.com/u/9903188?s=400&amp;u=d95a62c4d90fe570f9dc70acb13a1cfdebf9fa3e&amp;v=4" alt="Descrição da Imagem" width="200" />
-    </td>
-  </tr>
-</table>
-
-✨ Com quase 15 anos de experiência, atualmente Analista de Sistemas na Atos (remoto), com uma sólida formação em Sistemas de Informação e pós-graduações na área da tecnologia. Atualmente, estou cursando mestrado em Ciências da Computação na Universidade Federal do Pará, o que me permite aprofundar meus conhecimentos em tecnologias e soluções inovadoras.
-  Minha experiência abrange a liderança técnica e a aplicação de metodologias ágeis, como Scrum Master, para otimizar processos e entregar projetos de alta qualidade. Tenho um perfil generalista, o que me permite adaptar e aplicar minhas habilidades em diversas áreas da tecnologia da informação.
-  Sempre busco me desafiar que me permitam utilizar minha paixão por tecnologia para resolver problemas complexos e contribuir para o sucesso das organizações com as quais colaboro.   
-
-## 🏢 Atuação Profissional
-- 🚀 Analista de Sistemas, Scrum Master, Líder Técnico na [Atos](https://atos.net/))
-
-## 📌 Projeto em Destaque
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=AutoDocGen)](https://github.com/wilvison/AutoDocGen)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=Ai-Generativa)](https://github.com/wilvison/Ai-Generativa)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=automatic-code-doc)](https://github.com/wilvison/automatic-code-doc)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=App-financas)](https://github.com/wilvison/App-financas)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=EsporteWR)](https://github.com/wilvison/EsporteWR)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=E-Books)]([https://github.com/wilvison/cloudmart](https://github.com/wilvison/E-Books))
-
-## 📊 Estatísticas no GitHub
+# 👨‍💻 Wilvison Ralis (Wil)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wilvison&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wilvison&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+  ![Profile Views](https://img.shields.io/badge/Perfil-Tecnologia-blue?style=for-the-badge)
+  ![Experience](https://img.shields.io/badge/Experiência-15%20Anos-success?style=for-the-badge)
+  ![Status](https://img.shields.io/badge/Status-Disponível-brightgreen?style=for-the-badge)
+  
+  <img src="https://avatars.githubusercontent.com/u/9903188?s=400&amp;u=d95a62c4d90fe570f9dc70acb13a1cfdebf9fa3e&amp;v=4" alt="Wilvison Ralis" width="200" style="border-radius: 50%;" />
+  
+  ### Analista de Sistemas | Líder Técnico | Scrum Master | Educador
+  
+  *"Transformando desafios em soluções tecnológicas inovadoras"*
 </div>
 
-## Habilidades, Ferramentas e Tecnologias
+---
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/filezilla/BF0000" height="40" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gimp/5C5543" height="40" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/grafana/F46800" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/inkscape/000000" height="40" alt="inkscape logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ionic/3880FF" height="40" alt="ionic logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" height="40" alt="magento logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/phpstorm/000000" height="40" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/rstudioide/75AADB" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" height="40" alt="tomcat logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=atom" height="40" alt="atom logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+## 📊 Resumo Profissional
+
+Profissional com **15 anos de experiência** em tecnologia da informação, atualmente como **Analista de Sistemas na Atos** (trabalho remoto). Possuo formação sólida em Sistemas de Informação, com pós-graduações na área de tecnologia e atualmente cursando mestrado em Ciências da Computação na Universidade Federal do Pará.
+
+Minha experiência abrange liderança técnica e aplicação de metodologias ágeis como Scrum Master, com perfil generalista que me permite atuar em diversas áreas de TI. Sou movido por desafios e pela paixão em resolver problemas complexos usando tecnologia.
+
+---
+
+## 🎓 Formação Acadêmica
+
+- **Mestrado em Ciências da Computação** (Em andamento)  
+  *Universidade Federal do Pará*
+
+- **MBA em Big Data e Inteligência na Gestão de Dados**
+
+- **MBA Engenharia de Sistemas**
+
+- **Graduação em Sistemas de Informação**
+
+---
+
+## 🏢 Experiência Profissional
+
+### Atos
+**Analista de Sistemas | Scrum Master | Líder Técnico**  
+*Atuação remota*
+
+> Principais responsabilidades:
+> - Liderança técnica de equipes de desenvolvimento
+> - Implementação e gestão de metodologias ágeis
+> - Gerenciamento de projetos de software
+> - Análise e desenvolvimento de sistemas
+
+---
+
+## 🏆 Certificações
+
+- **Scrum Foundation Certificate (SFC)**
+- **Certified Scrum Master (CSM)**
+
+---
+
+## 🚀 Projetos em Destaque
+
+<div align="center">
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=AutoDocGen&theme=tokyonight)](https://github.com/wilvison/AutoDocGen)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=Ai-Generativa&theme=tokyonight)](https://github.com/wilvison/Ai-Generativa)
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=automatic-code-doc&theme=tokyonight)](https://github.com/wilvison/automatic-code-doc)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=App-financas&theme=tokyonight)](https://github.com/wilvison/App-financas)
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=EsporteWR&theme=tokyonight)](https://github.com/wilvison/EsporteWR)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wilvison&repo=E-Books&theme=tokyonight)](https://github.com/wilvison/E-Books)
 </div>
-<br>
 
+---
+
+## 📈 Estatísticas no GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wilvison&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="180" alt="estatísticas" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wilvison&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="180" alt="linguagens" />
+</div>
+
+---
+
+## 💼 Competências Profissionais
+<div align="center">
 <table>
   <tr>
-    <td>Possuo artigos publicados nos SBGames (Simpósio Brasileiro de Jogos e Entretenimento Digital) e TISE (Congresso Internacional de Informática Educacional)</td>  
+    <th>Área</th>
+    <th>Competências</th>
   </tr>
   <tr>
-    <td>Habilidades: Comunicação, Gestão, Liderança Equipes Multidisciplinares, Gerenciar de Conflitos</td>
+    <td><b>Habilidades de Gestão</b></td>
+    <td>• Liderança de equipes multidisciplinares </br>• Gestão de conflitos </br>• Comunicação eficaz </br>• Gerenciamento de projetos </br>• Metodologias ágeis (Scrum, Kanban, SaFe)</td>
   </tr>
   <tr>
-    <th>Trabalhei com as seguintes tecnologia: </th>
+    <td><b>DevOps & Cloud</b></td>
+    <td>• Docker </br>• Kubernetes </br>• CI/CD Pipelines </br>• Jenkins </br>• Git, GitLab, GitHub </br>• AWS </br>• Azure </br>• Terraform</td>
   </tr>
   <tr>
-    <td>Experiência com metodologias ágeis (Scrum, Kanban, SaFe), Certificação Scrum SFC e CSM</td>
+    <td><b>Linguagens de Programação</b></td>
+    <td>• JavaScript/TypeScript </br>• Python </br>• PHP </br>• Java </br>• HTML/CSS </br>• R</td>
   </tr>
   <tr>
-    <td>DevOps: Docker, Kubernetes, Pipelines CI/CD, Jenkins, Git, GitLab, GitHub</td>
+    <td><b>Bancos de Dados</b></td>
+    <td>• MySQL </br>• PostgreSQL </br>• MongoDB</td>
   </tr>
   <tr>
-    <td>Cloud: AWS, Azure, Terraform</td>
-  </tr>
-  <tr>
-    <td>Conhecimento em tecnologias como GPT, Gemini, Claude, DeepSeek, Qwen e frameworks</td>
-  </tr>
-  <tr>
-    <td>Conhecimento sobre o mercado de criptomoedas</td>
-  </tr>
-  <tr>
-    <td>Linguagens de programação: PHP, Python, JavaScript, HTML, CSS, Java.</td>
-  </tr>
-  <tr>
-    <td>Bancos de dados: MySQL, PostgreSQL, MongoDB </td>
-  </tr>
-  <tr>
-    <td>Experiencia infraestrutura On-premise, DMZ, Cloud(Nuvem), Liderança de equipes, gestão de conflitos, gestão de setor, domínio de sala de aula.</td>
+    <td><b>IA & Data Science</b></td>
+    <td>• GPT, Gemini, Claude, DeepSeek, Qwen </br>• Análise de Dados </br>• Machine Learning</td>
   </tr>
 </table>
+</div>
 
-## Áreas de Interesse
-### Líderança Técnica, Scrum Master, Gestão de Projetos, Cloud, DevOps, Desenvolvimento web, Desenvolvimento mobile, Data Science, Machine Learning, Inteligência Artificial, Análise de Dados
-
-## Contato
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/wilvison">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://www.youtube.com/c/WRTecnologiaeEducacao">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/wr.insta">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://wa.me/5591982183205">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="mailto:wilvison@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  </div>
 ---
+
+## 🛠️ Stack Tecnológica
+
+<div align="center">
+  
+  ### Frontend
+  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,html,css,sass,bootstrap,jquery" />
+  
+  ### Backend
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python,java,r,laravel" />
+  
+  ### DevOps & Cloud
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,terraform,git" />
+  
+  ### Bancos de Dados
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+  
+  ### Ferramentas
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,unity,wordpress,firebase" />
+
+</div>
+
+---
+
+## 📚 Publicações Acadêmicas
+
+Nesta seção, apresento algumas das minhas publicações, nas quais abordo temas relacionados à Gamificação, Game Mechanics e Gestão do Conhecimento. Confira os detalhes de cada uma:
+
+---
+
+# [The Use of PBL (Points, Badges and Leaderboards) Components and Game Mechanics for Teaching and Learning of Knowledge Management](http://www.tise.cl/2019/img/ActasTISE2019.pdf)
+- **Evento:** TISE 2019 – XXIV Congresso Internacional de Informática Educacional  
+- **Data:** 28 de nov de 2019  
+- **Publicação:** Sánchez, J. (2019) Editor. *Nuevas Ideas en Informática Educativa*, Volumen 15, p. 22-29, Santiago de Chile.  
+- **Resumo:**  
+  Este artigo apresenta uma proposta para o uso de componentes mecânicos de jogos e PBL (pontos, emblemas e classificações) como parte do planejamento de uma gamificação para o ensino e a aprendizagem da Gestão do Conhecimento.
+
+---
+
+# [Gamificação e Avaliação da Aplicação da Gestão do Conhecimento em uma Turma de Ciências da Computação: Um Estudo Experimental](https://www.sbgames.org/sbgames2019/files/papers/EducacaoShort/197813.pdf)
+- **Evento:** XVIII SBGames – Rio de Janeiro – RJ – Brazil  
+- **Data:** 30 de out de 2019  
+- **Resumo:**  
+  Nesta publicação, é apresentada a aplicação da gamificação no ensino e na aprendizagem da Gestão do Conhecimento com um grupo de estudantes de graduação do curso de Ciência da Computação na Universidade Federal do Pará. O trabalho inclui uma breve apresentação da proposta, a descrição de sua aplicação em sala de aula e os resultados obtidos, que foram avaliados tanto quantitativamente (com base nos dados coletados durante o experimento) quanto qualitativamente (utilizando análise SWOT – Forças, Fraquezas, Oportunidades e Ameaças – sob a perspectiva dos participantes).
+
+---
+
+# [Gamificação e Avaliação da Aplicação da Gestão do Conhecimento: Uma Análise de Estudos de Caso](https://www.sbgames.org/sbgames2019/files/papers/EducacaoFull/198406.pdf)
+- **Evento:** XVIII SBGames – Rio de Janeiro – RJ – Brazil  
+- **Data:** 30 de out de 2019  
+- **Resumo:**  
+  Esta publicação apresenta uma análise comparativa dos resultados obtidos com a aplicação do “Gamified Quadro” proposto por Alcântara e Oliveira. Foram comparados os estudos de caso realizados por Alcântara e Oliveira e por Alcântara et al., abordando os ativos de ensino, aprendizagem e o processo de gestão do conhecimento, com foco na análise dos resultados quantitativos durante a aplicação do quadro.
+
+---
+
+# [Aplicação de Core Drives e Elementos de Jogos para o Ensino e Aprendizagem da Gestão do Conhecimento](http://www.tise.cl/Volumen14/TISE2018/451.pdf)
+- **Evento:** TISE2018 – XXIII Conferência Internacional sobre Informática na Educação  
+- **Data:** 27 de nov de 2018  
+- **Publicação:** Sánchez, J. (2018) Editor. *Nuevas Ideas en Informática Educativa*, Volumen 14, p. 451-456, Santiago de Chile.  
+- **Resumo:**  
+  O artigo apresenta os Core Drives e os Elementos de Jogos empregados no planejamento de uma gamificação para apoiar o ensino e a aprendizagem dos ativos e do processo de gestão do conhecimento. Além disso, o estudo identifica os recursos requeridos, os indicadores a serem avaliados e os resultados esperados ao final de cada etapa do fluxo da gamificação, com o objetivo de criar um cenário que incentive os participantes no processo de ensino-aprendizagem.
+
+---
+
+# [SAW: Um Sistema de Geração de Simulados e Avaliações para Auxílio no Ensino e Aprendizado](http://www.tise.cl/Volumen14/TISE2018/607.pdf)
+- **Evento:** TISE2018 – XXIII Conferência Internacional sobre Informática na Educação  
+- **Data:** 27 de nov de 2018  
+- **Publicação:** Sánchez, J. (2018) Editor. *Nuevas Ideas en Informática Educativa*, Volumen 14, p. 607-613, Santiago de Chile.  
+- **Resumo:**  
+  O sistema SAW (Sistema de Avaliação Web) foi desenvolvido para auxiliar os professores no ensino da disciplina de Sistemas Operacionais. A ferramenta serve como apoio na avaliação dos alunos por meio de simulados e provas, contribuindo para a metodologia de ensino que integra os aspectos teóricos e práticos nas aulas de laboratório de SO.
+
+---
+
+# [Quiz Ensina: Uma Ferramenta de Apoio ao Ensino da Educação Básica (Ensino Fundamental II)](https://www.sbgames.org/sbgames2018/files/papers/EducacaoShort/187437.pdf)
+- **Evento:** SBGames 2018 – XVII Simpósio Brasileiro de Jogos e Entretenimento Digital  
+- **Data:** 29 de out de 2018  
+- **Resumo:**  
+  O sistema Quiz Ensina utiliza duas plataformas – um portal WEB e um aplicativo mobile – para oferecer suporte ao ensino da educação básica. Publicado no SBGames, o maior evento acadêmico da América Latina na área de Jogos e Entretenimento Digital, o trabalho destaca a relevância de reunir pesquisadores, estudantes e empresários para investigar e desenvolver soluções inovadoras na área de jogos eletrônicos. Anualmente, o evento atrai cerca de mil participantes de diversas regiões do Brasil e de países como Peru, Argentina, Uruguai, Estados Unidos, Inglaterra e Portugal.
+
+---
+
+## 🔍 Áreas de Interesse
+
+- Liderança Técnica 
+- Gestão de Projetos
+- Cloud Computing
+- DevOps
+- Desenvolvimento Web/Mobile
+- Data Science
+- Machine Learning
+- Inteligência Artificial
+- Análise de Dados
+- Mercado de Criptomoedas
+
+---
+
+## 📫 Contato
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-wilvison-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wilvison)
+  [![YouTube](https://img.shields.io/badge/YouTube-WR_Tecnologia_e_Educação-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/WRTecnologiaeEducacao)
+  [![Instagram](https://img.shields.io/badge/Instagram-wr.insta-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/wr.insta)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/5591982183205)
+  [![Email](https://img.shields.io/badge/Email-wilvison@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:wilvison@gmail.com)
+  
+</div>
+
+---
+
+<div align="center">
+  <i>Obrigado pela visita! Vamos conectar? 👨‍💻</i>
+</div>
